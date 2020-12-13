@@ -63,6 +63,8 @@
 
 ; ******************* END INITIALIZATION FOR ACL2s MODE ******************* ;
 ;$ACL2s-SMode$;ACL2s
+; Magnetic Tower of Hanoi Solver and Proof by: Dylan Huang and Sean Kelly
+
 ; Function to create a list describing
 ; a move made from peg 'x' to 'y'
 (defun move (x y)
